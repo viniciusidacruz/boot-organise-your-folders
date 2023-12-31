@@ -1,4 +1,4 @@
-# Automação WhatsApp
+# Automação de pastas
 
 Projeto criado para uma automação com Python para organização de arquivos em pastas determinadas.
 
